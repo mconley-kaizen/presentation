@@ -23,8 +23,8 @@ You can view the presentation in [Notes.ipynb](https://github.com/mconley-kaizen
 
 We'll be using the repos:
 * [webapp](https://github.com/mconley-kaizen/webapp)
+* [dockerapp](https://github.com/mconley-kaizen/docker_app)
 * [iris_prediction](https://github.com/mconley-kaizen/iris_prediction)
-* [docker_app](https://github.com/mconley-kaizen/docker_app)
 * [deploy](https://github.com/mconley-kaizen/deploy)
 
 Don't worry too much about what is in these repos just yet, but some familiarity will help.
