@@ -8,7 +8,7 @@ You should be able to execute `docker --version` and see something like `Docker 
 
 If you are on linux, installation is very straight forward as `docker` takes advantage of the host's native kernel
 
-If you are on Mac or Windows, you will need to use the `docker-machine` tools provided in the installation to run `docker` on a virtual machine.  This is a somewhat seamless, just follow the [tutorials](https://www.docker.com/products/overview#/install_the_platform)
+If you are on Mac or Windows, you will need to use the `docker-machine` tools provided in the installation to run `docker` on a virtual machine.  This is somewhat seamless, just follow the [tutorials](https://www.docker.com/products/overview#/install_the_platform)
 
 
 ### Play with it
