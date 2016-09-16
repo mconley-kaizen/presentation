@@ -19,7 +19,7 @@ See what `docker ps`, `docker logs`, and `docker stop` do...
 
 ### Development
 
-You can view the presentation in [Notes.ipynb](https://github.com/mconley-kaizen/presentation/blob/master/Notes.ipynb)
+You can view the presentation in [Presentation.ipynb](https://github.com/mconley-kaizen/presentation/blob/master/Presentation.ipynb)
 
 We'll be using the repos:
 * [webapp](https://github.com/mconley-kaizen/webapp)
