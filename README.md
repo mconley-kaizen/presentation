@@ -41,7 +41,7 @@ cd ..
 git clone https://github.com/mconley-kaizen/deploy.git
 cd deploy
 source launch.sh
-deploy 5000 iris_prediction mydockerapp
+deploy 5000 iris_prediction predict mydockerapp
 ```
 
 If executed correctly, there should be a webapp running on port 5000 of your `docker` network.  If you are on linux, your `docker` network will be your host computer.  If you are using `docker-machine`, the command `docker-machine ip` will return your docker network, ie:  `chrome $(docker-machine ip):5000`
